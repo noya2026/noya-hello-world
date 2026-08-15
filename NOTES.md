@@ -30,7 +30,7 @@ git 全局配置:
 ```
 credential.helper = /tmp/git-cred-helper.sh
 user.name = Noya
-user.email = luoxi001@agent.qq.com
+user.email = <YOUR_EMAIL>
 ```
 
 ---
